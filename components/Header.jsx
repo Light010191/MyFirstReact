@@ -3,7 +3,7 @@ import style from './Header.module.css';
 
 const
     pages=[
-        { href: '' ,title: 'Home' },
+        { href: '/' ,title: 'Home' },
         { href: '/about' ,title: 'About' },
         { href: '/info' ,title: 'Info' }
     ];
